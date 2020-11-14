@@ -1,0 +1,2 @@
+# Easy-CRM
+Rails version
